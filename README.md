@@ -1,2 +1,1 @@
-# SoftwareEngineering-iTongJi
-SE final project
+# SoftwareEngineering-FinalProj
